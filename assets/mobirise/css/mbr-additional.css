@@ -1375,7 +1375,6 @@ body {
 .cid-qUiFUDMlwL {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
 }
 .cid-qUiFUDMlwL .mbr-section-subtitle {
   color: #767676;
@@ -1407,7 +1406,10 @@ body {
   font-size: 17px;
 }
 .cid-qUiFUDMlwL .team-item .item-caption {
-  background: #efefef;
+  background: #cebfaf;
+}
+.cid-qUiFUDMlwL .mbr-section-subtitle B {
+  color: #232323;
 }
 .cid-qUiIpFKbN3 {
   padding-top: 90px;
